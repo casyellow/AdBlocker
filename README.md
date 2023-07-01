@@ -1,6 +1,6 @@
 # AdBlocker
 
-0. Click on **"<> Code"**, **"Download ZIP"**, and extract the files in your desired filesystem directory.
+0. Click on **"Code"**, **"Download ZIP"**, and extract the files in your desired filesystem directory.
 
 1. Navigate to your browser's Extensions page.
 ```
