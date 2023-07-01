@@ -1,0 +1,25 @@
+{
+	"name": "Easy AdBlock",
+	"version": "1.0",
+	"description": "Ad URL Blocking Extension",
+
+	"content_scripts": [{
+		"js": ["vidAds.js"],
+		"run_at": "document_idle",
+		"matches": ["<all_urls>"]
+	}],
+
+	"permissions": ["webRequest", "webRequestBlocking", "<all_urls>", "tabs", "activeTab"],
+
+	"background": {
+		"scripts": ["background.js"]
+	},
+
+	"icons": {
+		"16": "icons/logo_16x16.png",
+		"48": "icons/logo_48x48.png",
+		"128": "icons/logo_128x128.png"
+	},
+
+	"manifest_version": 2
+}
