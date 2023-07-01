@@ -4,7 +4,7 @@
 
 1. Navigate to your browser's Extensions page.
 ```
-e.g. chrome://extensions
+chrome://extensions
 ```
 
 3. Enable Developer Mode by clicking on the toggle switch next to **"Developer mode"**.
