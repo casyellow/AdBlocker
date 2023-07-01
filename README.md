@@ -1,5 +1,6 @@
 # AdBlocker
 ![Love you!](https://github.com/casyellow/AdBlocker/blob/main/icons/logo_128x128.png)
+
 0. Click on **<> Code**, **Download ZIP**, and extract the files in your desired filesystem directory.
 
 1. Navigate to your browser's [Extensions page](chrome://extensions).
